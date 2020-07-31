@@ -34,3 +34,7 @@ docker-compose up -d
 - Initial concept and development was done by Amos Haviv and sponsered by Linnovate.
 - Inspired by the great work of Madhusudhan Srinivasa.
 # mean_eks_demo
+
+Refer the google drive link: https://drive.google.com/file/d/1slZgPh8yOvhGC_r4wQpvYC-OSDw1I__0/view
+
+This is for AWS-EKS implementation
